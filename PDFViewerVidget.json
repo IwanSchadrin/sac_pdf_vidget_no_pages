@@ -1,0 +1,100 @@
+{
+	"name": "PDF Viewer Vidget",
+	"description": "Displays a PDF file in popup-window",
+	"eula": "",
+	"vendor": "Promos",
+	"license": "",
+	"id": "com.openpromos.sac.pdf.vidget",
+	"newInstancePrefix": "PDFViewer",
+	"version": "0.0.1",
+	"icon": "data:image/png;base64,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",
+	"webcomponents": [
+		{
+			"kind": "main",
+			"tag": "com-openpromos-sac-pdf-vidget",
+			"url": "https://iwanschadrin.github.io/sac_pdf_vidget_no_pages/WebComponent.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		},
+		{
+			"kind": "styling",
+			"tag": "com-openpromos-sac-pdf-vidget-aps",
+			"url": "https://iwanschadrin.github.io/sac_pdf_vidget_no_pages/aps_WebComponent.js",
+			"integrity": "",
+			"ignoreIntegrity": true
+		}
+	],
+	"properties": {
+		"pdfUrl": {
+			"type": "string",
+			"description": "PDF URL",
+			"default": ""
+		},
+		"popupTitle": {
+			"type": "string",
+			"description": "Title",
+			"default": "Steckbrief"
+		},		
+		"displayLink": {
+			"type": "boolean",
+			"description": "Display Link",
+			"default": true
+		}
+	},
+	"methods": {
+		"getDisplayLink": {
+			"description": "Returns true if the link for popup should be visible",
+			"body": "return this.displayLink;",
+			"returnType": "boolean"
+		},
+		"setDisplayLink": {
+			"description": "Defines if the link for popup should be visible. If invisible, use the displayPDFInPopup method in custom script.",
+			"parameters": [
+				{
+					"name": "displayLink",
+					"type": "boolean",
+					"description": "True if the link should be visible"
+				}
+			],
+			"body": "this.displayLink = displayLink;"
+		},
+		"getPdfUrl": {
+			"description": "Returns the URL of the PDF file",
+			"body": "return this.pdfUrl;",
+			"returnType": "string"
+		},
+		"setPdfUrl": {
+			"description": "Sets the URL of the PDF file",
+			"parameters": [
+				{
+					"name": "newPdfUrl",
+					"type": "string",
+					"description": "The new PDF URL"
+				}
+			],
+			"body": "this.pdfUrl = newPdfUrl;"
+		},
+		"setPopupTitle": {
+			"description": "Sets the title of the popup-window in that the PDF file will be displayed",
+			"parameters": [
+				{
+					"name": "newPopupTitle",
+					"type": "string",
+					"description": "The new title"
+				}
+			],
+			"body": "this.popupTitle = newPopupTitle;"
+		},		
+		"getPopupTitle": {
+			"description": "Returns the title of the popup-window in that the PDF file will be displayed",			
+			"body": "return this.popupTitle;",
+			"returnType": "string"
+		},
+
+		"displayPDFInPopup": {
+			"description": "Displays the pop-up window"
+		}
+	},
+	"events": {
+	}
+}
