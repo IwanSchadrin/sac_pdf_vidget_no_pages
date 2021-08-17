@@ -12,14 +12,14 @@
 		{
 			"kind": "main",
 			"tag": "com-openpromos-sac-pdf-vidget",
-			"url": "https://iwanschadrin.github.io/sac_pdf_vidget_no_pages/WebComponent.js",
+			"url": "https://raw.githubusercontent.com/IwanSchadrin/sac_pdf_vidget_no_pages/main/WebComponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-openpromos-sac-pdf-vidget-aps",
-			"url": "https://iwanschadrin.github.io/sac_pdf_vidget_no_pages/aps_WebComponent.js",
+			"url": "https://raw.githubusercontent.com/IwanSchadrin/sac_pdf_vidget_no_pages/main/aps_WebComponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
